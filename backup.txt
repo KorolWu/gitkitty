@@ -1,0 +1,20 @@
+﻿
+jenkins :
+userName :root
+passWord :root
+url:http://192.168.188.230:8080/
+gitbook 无法启动 到 cd /etc/rc.d/init.d/ gitbook.sh 可以开启===>
+
+samba :
+\\192.168.188.230\homes
+
+账号 :share
+
+密码 :root
+
+映射的是 /home/source/gitbook/doc/windowsShare 文件夹
+
+tomcat:
+url:   http://192.168.188.230:8090/
+path:  /usr/local/tomcat/
+
