@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Type=Application
+
+Name=testboot
+
+NoDisplay=true
+
+Exec=/home/pi/auto_start.sh
